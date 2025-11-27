@@ -1,0 +1,8 @@
+/* REAL APP — frontend */
+node_modules
+.next
+.env.local
+.env.*.local
+.vscode
+dist
+coverage
