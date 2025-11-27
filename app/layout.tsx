@@ -1,4 +1,3 @@
-/* REAL APP — frontend */
 import "@/globals.css";
 import { ThemeProvider } from "@/components/ui/ThemeProvider";
 import TopNav from "@/components/layout/TopNav";
